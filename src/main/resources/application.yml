@@ -21,3 +21,5 @@ slack:
     token:
   signing:
     secret:
+scheduled:
+  user-id:
